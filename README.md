@@ -1,12 +1,12 @@
 # Purchase-Document-List-Report
 
-Programming Model = ABAP RESTful Programming Model
+**Programming Model** = ABAP RESTful Programming Model
 
-Programming Language = ABAP + CDS
+**Programming Language** = ABAP + CDS
 
-Backend System = S/4Hana On-Premise
+**Backend System** = S/4Hana On-Premise
 
-FrontEnd UI = Fiori
+**FrontEnd UI** = Fiori
 
-Application type = List Report
+**Application type** = List Report
 
